@@ -1,0 +1,31 @@
+#text{padding:50px;
+font-size: 20px;
+
+}
+.puce{ font-weight: none;
+	font-size: 16px;
+
+
+}
+.gras{
+	font-weight: bold;
+}
+.premier{
+	padding: 10px;
+	font-size: 30px;
+}
+.monimage{float: right;
+
+}
+.text2{
+	font-weight: bold;
+	;
+	text-align: justify;
+	font-size: 20px;
+}
+.al{
+	padding: 60px;
+}
+.text1{
+	text-align: center;
+
